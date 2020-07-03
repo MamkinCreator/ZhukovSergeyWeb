@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE football PUBLIC "---" "https://kodaktor.ru/j/dtd_aff09">
+<!DOCTYPE football PUBLIC "---" "https://github.com/MamkinCreator/ZhukovSergeyWeb/blob/master/FirstTask/task1xml.dtd">
 <football>
 	<championsLeague group="A">
 		<first>Paris Saint-Germain</first>
