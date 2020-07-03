@@ -1,0 +1,9 @@
+<!DOCTYPE football [
+<!ELEMENT football (championsLeague)>
+<!ELEMENT championsLeague (first,second,third,fourth)>
+<!ATTLIST championsLeague group CDATA "A">
+<!ELEMENT first (#PCDATA)>
+<!ELEMENT second (#PCDATA)>
+<!ELEMENT third (#PCDATA)>
+<!ELEMENT fourth (#PCDATA)>
+]>

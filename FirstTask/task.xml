@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE football PUBLIC "---" "https://kodaktor.ru/j/dtd_aff09">
+<football>
+	<championsLeague group="A">
+		<first>Paris Saint-Germain</first>
+		<second>Real Madrid</second>
+		<third>Club Brugge</third>
+		<fourth>Galatasaray</fourth>
+	</championsLeague>
+</football>
